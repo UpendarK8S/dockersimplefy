@@ -1,10 +1,11 @@
 package dockersimplefy;
 
-public class Test {
+public class Test3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Helloo finally smile baby..");
+		System.out.println("hellow 2 sec");
+		
 	}
 
 }
