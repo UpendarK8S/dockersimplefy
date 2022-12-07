@@ -4,4 +4,10 @@
   <artifactId>dockersimplefy</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>docker</name>
+  
+<build>
+
+<finalName>dockersimplefy-sample</finalName>
+</build>
+
 </project>
